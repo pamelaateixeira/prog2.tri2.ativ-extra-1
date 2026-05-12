@@ -1,0 +1,10 @@
+{
+  "name": "prog2.tri2.atv1-extra",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
